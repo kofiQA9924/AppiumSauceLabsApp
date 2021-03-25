@@ -1,0 +1,14 @@
+<suite name="Android Test">
+    <test name="Sauce Android AppTest">
+        <classes>
+            <class name="com.saucelabs.LoginPageTest.checkoutCompletePageTest">
+
+            </class>
+            </classes>
+
+    </test>
+    <Listeners>
+        <Listener name="com.saucelabs.Utilities.Reporting"></Listener>
+    </Listeners>
+
+</suite>

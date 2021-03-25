@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Android Test" duration-ms="58494" started-at="2021-03-24T20:18:59 CDT" finished-at="2021-03-24T20:19:58 CDT">
+    <groups>
+    </groups>
+    <test name="Sauce Android AppTest" duration-ms="58494" started-at="2021-03-24T20:18:59 CDT" finished-at="2021-03-24T20:19:58 CDT">
+      <class name="com.saucelabs.LoginPageTest.checkoutCompletePageTest">
+        <test-method status="PASS" signature="setUpcomplete()[pri:0, instance:com.saucelabs.LoginPageTest.checkoutCompletePageTest@1d16f93d]" name="setUpcomplete" is-config="true" duration-ms="54048" started-at="2021-03-24T20:19:00 CDT" finished-at="2021-03-24T20:19:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpcomplete -->
+        <test-method status="PASS" signature="testThankyou()[pri:0, instance:com.saucelabs.LoginPageTest.checkoutCompletePageTest@1d16f93d]" name="testThankyou" duration-ms="1371" started-at="2021-03-24T20:19:54 CDT" finished-at="2021-03-24T20:19:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThankyou -->
+        <test-method status="PASS" signature="testMainmenu()[pri:1, instance:com.saucelabs.LoginPageTest.checkoutCompletePageTest@1d16f93d]" name="testMainmenu" duration-ms="2879" started-at="2021-03-24T20:19:55 CDT" finished-at="2021-03-24T20:19:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainmenu -->
+      </class> <!-- com.saucelabs.LoginPageTest.checkoutCompletePageTest -->
+    </test> <!-- Sauce Android AppTest -->
+  </suite> <!-- Android Test -->
+</testng-results>

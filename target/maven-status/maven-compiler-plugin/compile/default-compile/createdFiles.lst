@@ -1,0 +1,8 @@
+com\saucelabs\Pages\checkoutCompletePage.class
+com\saucelabs\Pages\ProductsPage.class
+com\saucelabs\Utilities\Reporting.class
+com\saucelabs\Pages\CheckoutInfoPage.class
+com\saucelabs\Utilities\Capture.class
+com\saucelabs\Pages\LoginPage.class
+com\saucelabs\Base\BaseClass.class
+com\saucelabs\Pages\YourCartPage.class

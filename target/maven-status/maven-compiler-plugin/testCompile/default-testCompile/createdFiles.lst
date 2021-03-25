@@ -1,0 +1,5 @@
+com\saucelabs\LoginPageTest\YourCartPageTest.class
+com\saucelabs\LoginPageTest\LoginPageTest.class
+com\saucelabs\LoginPageTest\checkoutCompletePageTest.class
+com\saucelabs\LoginPageTest\ProductsPageTest.class
+com\saucelabs\LoginPageTest\CheckoutInfoPageTest.class

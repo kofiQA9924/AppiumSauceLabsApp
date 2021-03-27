@@ -2,6 +2,7 @@ package com.saucelabs.Base;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -34,6 +35,7 @@ public class BaseClass {
         }
     }
     public void initialization() throws MalformedURLException {
+        PropertyConfigurator.configure("Log4j.properties");
         logger=Logger.getLogger("log4j.properties");
         desiredCapabilities=new DesiredCapabilities();
         desiredCapabilities.setCapability("udid","emulator-5554");

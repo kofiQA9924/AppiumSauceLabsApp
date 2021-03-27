@@ -1,12 +1,10 @@
-package com.saucelabs.LoginPageTest;
+package com.saucelabs.TestCases;
 
 import com.saucelabs.Base.BaseClass;
 import com.saucelabs.Pages.LoginPage;
 import com.saucelabs.Pages.ProductsPage;
 import com.saucelabs.Pages.YourCartPage;
 import com.saucelabs.Utilities.Reporting;
-import io.appium.java_client.MobileElement;
-import io.appium.java_client.android.AndroidDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;

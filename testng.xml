@@ -1,7 +1,7 @@
 <suite name="Android Test">
     <test name="Sauce Android AppTest">
         <classes>
-            <class name="com.saucelabs.LoginPageTest.checkoutCompletePageTest">
+            <class name="com.saucelabs.TestCases.checkoutCompletePageTest">
 
             </class>
             </classes>

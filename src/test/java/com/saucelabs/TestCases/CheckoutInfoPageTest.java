@@ -1,4 +1,4 @@
-package com.saucelabs.LoginPageTest;
+package com.saucelabs.TestCases;
 
 import com.google.common.base.Verify;
 import com.saucelabs.Base.BaseClass;

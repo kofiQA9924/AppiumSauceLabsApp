@@ -1,4 +1,4 @@
-package com.saucelabs.LoginPageTest;
+package com.saucelabs.TestCases;
 
 import com.saucelabs.Base.BaseClass;
 import com.saucelabs.Pages.LoginPage;
